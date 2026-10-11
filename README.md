@@ -1,1 +1,1 @@
-# Copy--Exercise-Introduction-to-GitHub
+# Copy-Exercise-Introduction-to-GitHub
